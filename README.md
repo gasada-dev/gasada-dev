@@ -1,4 +1,4 @@
-## I'm a begginer frontend developer
+## I'm a Begginer Frontend Developer
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0084a5?style=for-the-badge&logo=javascript)
