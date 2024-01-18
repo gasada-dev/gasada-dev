@@ -4,7 +4,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0084a5?style=for-the-badge&logo=javascript)
 ![GIT](https://img.shields.io/badge/-GIT-0084a5?style=for-the-badge&logo=git)
 ![SCSS](https://img.shields.io/badge/-SCSS-0084a5?style=for-the-badge&logo=sass)
-![markdown](https://img.shields.io/badge/-markdown-0084a5?style=for-the-badge&logo=markdown)
 
 ## Folow Me
 [![vk](https://img.shields.io/badge/-vk-0084a5?style=for-the-badge&logo=vk)](https://vk.com/gasada_pro)
